@@ -1,0 +1,173 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.btcontroller"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:5:5-68
+11-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:6:5-66
+12-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:6:22-63
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:7:5-74
+13-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:7:22-71
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.READ_CONTACTS" />
+16-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:10:5-72
+16-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:10:22-69
+17    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+17-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:11:5-73
+17-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:11:22-70
+18    <uses-permission android:name="android.permission.CALL_PHONE" />
+18-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:12:5-69
+18-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:12:22-66
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:13:5-67
+19-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:13:22-64
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:14:5-65
+20-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:14:22-62
+21
+22    <uses-feature android:name="android.hardware.location.gps" />
+22-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:16:5-66
+22-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:16:19-63
+23    <uses-feature
+23-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:17:5-19:35
+24        android:name="android.hardware.bluetooth_le"
+24-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:18:9-53
+25        android:required="true" />
+25-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:19:9-32
+26
+27    <application
+27-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:21:5-74:19
+28        android:name="com.example.btcontroller.MYBOXApplication"
+28-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:22:9-41
+29        android:allowBackup="true"
+29-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:23:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.6.0-alpha01] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e0f50f261f22979ed70663f04e3c4f4\core-1.6.0-alpha01\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@drawable/ab"
+32-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:24:9-36
+33        android:label="@string/app_name"
+33-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:25:9-41
+34        android:roundIcon="@drawable/ab"
+34-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:26:9-41
+35        android:supportsRtl="true"
+35-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:27:9-35
+36        android:theme="@style/AppTheme" >
+36-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:28:9-40
+37        <activity android:name="com.example.btcontroller.activity.LoadingActivity" />
+37-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:32:9-62
+37-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:32:19-59
+38        <activity
+38-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:33:9-41:20
+39            android:name="com.example.btcontroller.activity.Login2Activity"
+39-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:34:13-52
+40            android:theme="@style/AppNoTitle" >
+40-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:35:13-46
+41            <intent-filter>
+41-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:36:13-40:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:37:17-69
+42-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:37:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:39:17-77
+44-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:39:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:42:9-44:49
+48            android:name="com.example.btcontroller.activity.LoginActivity"
+48-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:43:13-51
+49            android:theme="@style/AppNoTitle" />
+49-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:44:13-46
+50        <activity
+50-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:45:9-47:49
+51            android:name="com.example.btcontroller.activity.EditActivity"
+51-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:46:13-50
+52            android:theme="@style/AppNoTitle" />
+52-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:47:13-46
+53        <activity
+53-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:48:9-50:49
+54            android:name="com.example.btcontroller.activity.DevicesActivity"
+54-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:49:13-53
+55            android:theme="@style/AppNoTitle" />
+55-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:50:13-46
+56        <activity
+56-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:51:9-53:49
+57            android:name="com.example.btcontroller.activity.MainActivity"
+57-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:52:13-50
+58            android:theme="@style/AppNoTitle" />
+58-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:53:13-46
+59        <activity
+59-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:54:9-56:49
+60            android:name="com.example.btcontroller.activity.AccountActivity"
+60-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:55:13-53
+61            android:theme="@style/AppNoTitle" />
+61-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:56:13-46
+62        <activity
+62-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:57:9-59:49
+63            android:name="com.example.btcontroller.activity.NearbyPharmActivity"
+63-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:58:13-57
+64            android:theme="@style/AppNoTitle" />
+64-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:59:13-46
+65        <activity
+65-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:60:9-62:49
+66            android:name="com.example.btcontroller.activity.ShujuActivity"
+66-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:61:13-51
+67            android:theme="@style/AppNoTitle" />
+67-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:62:13-46
+68        <activity
+68-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:63:9-65:49
+69            android:name="com.example.btcontroller.activity.Purchase_noticeActivity"
+69-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:64:13-61
+70            android:theme="@style/AppNoTitle" />
+70-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:65:13-46
+71        <activity
+71-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:66:9-68:49
+72            android:name="com.example.btcontroller.activity.fenxiActivity"
+72-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:67:13-51
+73            android:theme="@style/AppNoTitle" />
+73-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:68:13-46
+74        <activity
+74-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:69:9-71:49
+75            android:name="com.example.btcontroller.activity.yuyinActivity"
+75-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:70:13-51
+76            android:theme="@style/AppNoTitle" />
+76-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:71:13-46
+77        <activity
+77-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:72:9-73:48
+78            android:name="com.example.btcontroller.activity.AddDeviceActivity"
+78-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:72:19-61
+79            android:theme="@style/AppNoTitle" />
+79-->C:\Users\Administrator\Desktop\MY BOX\app\src\main\AndroidManifest.xml:73:13-46
+80        <activity
+80-->[cn.yipianfengye.android:zxing-library:2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c84ee4b213d341a29b74e385b03987b3\jetified-zxing-library-2.2\AndroidManifest.xml:12:9-17:63
+81            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+81-->[cn.yipianfengye.android:zxing-library:2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c84ee4b213d341a29b74e385b03987b3\jetified-zxing-library-2.2\AndroidManifest.xml:13:13-74
+82            android:configChanges="orientation|keyboardHidden"
+82-->[cn.yipianfengye.android:zxing-library:2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c84ee4b213d341a29b74e385b03987b3\jetified-zxing-library-2.2\AndroidManifest.xml:14:13-63
+83            android:screenOrientation="portrait"
+83-->[cn.yipianfengye.android:zxing-library:2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c84ee4b213d341a29b74e385b03987b3\jetified-zxing-library-2.2\AndroidManifest.xml:15:13-49
+84            android:theme="@style/Theme.AppCompat.NoActionBar"
+84-->[cn.yipianfengye.android:zxing-library:2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c84ee4b213d341a29b74e385b03987b3\jetified-zxing-library-2.2\AndroidManifest.xml:16:13-63
+85            android:windowSoftInputMode="stateAlwaysHidden" />
+85-->[cn.yipianfengye.android:zxing-library:2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c84ee4b213d341a29b74e385b03987b3\jetified-zxing-library-2.2\AndroidManifest.xml:17:13-60
+86    </application>
+87
+88</manifest>

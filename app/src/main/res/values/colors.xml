@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="windowBackground">#f0f0f0</color>
+    <color name="splitLine">#e9e9e9</color>
+    <color name="navigationBarColor">#aaaaaa</color>
+    <color name="white">#ffffff</color>
+    <color name="navigationPressed">#dddddd</color>
+    <color name="themeColor">#ffce3d3a</color>
+    <color name="textColorHint">#A0A0A0</color>
+    <color name="GREEN">#FF00FF00</color>
+    <color name="RED">#FFFF0000</color>
+    <color name="PointerColor">#C9DEEE</color>
+    <color name="Yellow">#FFFFFF00</color>
+
+    <color name="series_not_end">#fffec500</color>
+    <color name="sienna">#ffa0522d</color>
+    <color name="silver">#ffc0c0c0</color>
+    <color name="skyblue">#ff87ceeb</color>
+    <color name="slateblue">#ff6a5acd</color>
+    <color name="slategray">#ff708090</color>
+    <color name="slategrey">#ff708090</color>
+    <color name="textColor">#666666</color>
+    <color name="shadow">#dfdfdf</color>
+    <color name="scale">#58000000</color>
+    <color name="leftRight">#e1dcd6</color>
+    <color name="rightRight">#f4efe9</color>
+    <color name="outsideBlue">#2690f8</color>
+    <color name="insideBlue">#58ade5</color>
+
+    <color name="insideCircle">#c2b9b0</color>
+
+    <color name="white2">#ECFFFFFF</color>
+    <color name="blue">#2A8EE3</color>
+    <color name="transparent_gray">#90000000</color>
+    <color name="orange">#FFE8A140</color>
+    <color name="orange1">#FF8C00</color>
+
+    <color name="green">#83d383</color>
+    2f364e
+    <color name="button_back">#2f364e</color>
+
+    <color name="male_sign_color">#64B5F6</color>
+
+</resources>

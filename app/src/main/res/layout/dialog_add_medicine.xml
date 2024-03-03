@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:text="添加药品"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp">
+    
+        <include android:id="@+id/button_scan_container"
+            layout="@layout/button_scan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    
+        <com.example.btcontroller.view.TextInputContainer
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:hintAnimationEnabled="true"
+            app:hintEnabled="true"
+            app:layout_constraintEnd_toStartOf="@id/button_scan_container"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+        
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/med_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="药品名称"
+                android:inputType="text"
+                android:lines="1"
+                android:textColor="@color/black"
+                android:textColorHint="@color/textColorHint"
+                android:textSize="14sp" />
+    
+        </com.example.btcontroller.view.TextInputContainer>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    
+    <com.example.btcontroller.view.TextInputContainer
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        app:hintAnimationEnabled="true"
+        app:hintEnabled="true">
+    
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/med_repeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="重复"
+            android:inputType="number"
+            android:lines="1"
+            android:textColor="@color/black"
+            android:textColorHint="@color/textColorHint"
+            android:textSize="14sp" />
+
+    </com.example.btcontroller.view.TextInputContainer>
+    
+    <com.example.btcontroller.view.TextInputContainer
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        app:hintAnimationEnabled="true"
+        app:hintEnabled="true">
+    
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/med_count"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="服用数量"
+            android:inputType="number"
+            android:lines="1"
+            android:textColor="@color/black"
+            android:textColorHint="@color/textColorHint"
+            android:textSize="14sp" />
+
+    </com.example.btcontroller.view.TextInputContainer>
+
+</LinearLayout>

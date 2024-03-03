@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<androidx.preference.Preference
+		app:icon="@drawable/ic_image_black_24dp"
+		app:key="avatar"
+		app:title="头像" />
+	<androidx.preference.Preference
+		app:icon="@drawable/ic_account_circle_24dp"
+		app:key="username"
+		app:title="用户名" />
+	<androidx.preference.Preference
+		android:icon="@drawable/ic_call_black_24dp"
+		app:key="phone"
+		app:title="手机号码" />
+	<androidx.preference.Preference
+		android:icon="@drawable/ic_person_black_24dp"
+		android:key="gender"
+		android:title="性别" />
+</androidx.preference.PreferenceScreen>

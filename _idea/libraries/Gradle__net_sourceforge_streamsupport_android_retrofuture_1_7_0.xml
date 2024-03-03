@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sourceforge.streamsupport:android-retrofuture:1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.streamsupport/android-retrofuture/1.7.0/c3c08a40ac6079d3aea589970021856b0d9df667/android-retrofuture-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.streamsupport/android-retrofuture/1.7.0/b3ae78dd9cfc243bc17bb13fa4d61a34eb9dc500/android-retrofuture-1.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.streamsupport/android-retrofuture/1.7.0/826c7573c608c1c6f1a8bdc75f90d323a3131a03/android-retrofuture-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

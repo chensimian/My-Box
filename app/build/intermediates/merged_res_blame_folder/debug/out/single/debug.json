@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview3.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_login_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\login_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_search.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account__arrow_right.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\account__arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_show_psw_press.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\show_psw_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_record.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\record.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cor.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_call.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_edit2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\edit2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_phone_call.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_confirm.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wifi_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_wifi_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_text_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-hdpi\\text_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_form_medicine.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\form_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_highlight_grey_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\highlight_grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_key_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_key_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_user__bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\user__bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_highlight_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\highlight_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_show_chart_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_show_chart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\avatar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_female_sign_128.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\female_sign_128.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yaopin2.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\yaopin2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jiankang.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\jiankang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bg1.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\bg1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_account_circle_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_huanyao.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\huanyao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_geng_duo.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_geng_duo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yuyin1.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\yuyin1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart_black_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_shopping_cart_black_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_login1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_action_nobar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\title_action_nobar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tongji.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-hdpi\\tongji.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\data_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_background_login.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\background_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_scan.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar_view2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_calendar_view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_meds.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\meds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yaopin1.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\yaopin1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_scan.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_wifi1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxhdpi\\wifi1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yuyin2.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\yuyin2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bg3.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_med_availability_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\med_availability_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tibiao_png.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\tibiao_png.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_active_calendar_grid_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\selector_active_calendar_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gerenjiemian02.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\gerenjiemian02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_calendar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nearby_pharm.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_nearby_pharm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_wifi.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_xianshi_psw.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\xianshi_psw.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview4.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\xml_account_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\xml\\account_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_shouji2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\shouji2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_male.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_male.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_female_sign.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\female_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_box_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_baseline_add_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_light_green.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\button_light_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_record_item1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\record_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fanhui.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-hdpi\\fanhui.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fu_yao_ji_lu.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_fu_yao_ji_lu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_analyze.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_top_action_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\top_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_yuyin.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_yuyin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_voice_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_keyboard_voice_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\dialog_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_weizhi.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\weizhi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gerenjiemian.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\gerenjiemian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_grey_round_2dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\border_grey_round_2dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_more.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ab.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\ab.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_password_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\password_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_user_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bg2.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\bg2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_notify.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\notify.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview7.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fu_yao_ti_xing.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_fu_yao_ti_xing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ok_psw.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\ok_psw.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\anim_screen_zoom_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\anim\\screen_zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_more.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_regist.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_regist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shelf_category_divider.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\ic_shelf_category_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shuju.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-hdpi\\shuju.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bj.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-mdpi\\bj.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview6.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_clean_edit.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\clean_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_device.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_add_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yuyin.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\yuyin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ab.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\ab.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_male_sign_128.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\male_sign_128.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_delete.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shanxing.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\shanxing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_purchase_notice.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_purchase_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ok.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_shouji.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\shouji.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_image_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_loading.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxhdpi\\loading.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fenxi.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_fenxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview5.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_analy.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_analy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_btn_login.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\btn_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_calendar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\item_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_edit.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tubiao.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\tubiao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_edit.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_route_example.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-v24\\route_example.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_action_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\title_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\anim_screen_zoom_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\anim\\screen_zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_male_sign.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\male_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_button_search.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\button_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_imei.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_imei.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornersview2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\cornersview2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar_viewpager.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\fragment_calendar_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_record_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_wifi_tethering_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_baseline_wifi_tethering_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xxhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_map_example.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable-xhdpi\\map_example.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bg4.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-xhdpi\\bg4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_kejian_psw.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-mdpi\\kejian_psw.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_medicine.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\dialog_add_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shuju.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\layout\\activity_shuju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alarm_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\drawable\\ic_alarm_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_user_edit.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MY BOX\\app\\src\\main\\res\\mipmap-anydpi-v26\\user_edit.png"
+    }
+]

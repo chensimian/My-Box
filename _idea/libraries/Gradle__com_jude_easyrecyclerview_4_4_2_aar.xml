@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jude:easyrecyclerview:4.4.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f034e443fbe6046f191c050c9bdc95e/jetified-easyrecyclerview-4.4.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f034e443fbe6046f191c050c9bdc95e/jetified-easyrecyclerview-4.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f034e443fbe6046f191c050c9bdc95e/jetified-easyrecyclerview-4.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f034e443fbe6046f191c050c9bdc95e/jetified-easyrecyclerview-4.4.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/easyrecyclerview/4.4.2/51fec979b17276e1d454c14da8a6e7881f3ebdba/easyrecyclerview-4.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/easyrecyclerview/4.4.2/2e878a32d21f2021aa7fd8ed9e3a8dd7dfcb20dc/easyrecyclerview-4.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

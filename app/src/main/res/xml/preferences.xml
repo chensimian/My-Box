@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<androidx.preference.Preference
+		android:rotationX="-46"
+		app:icon="@drawable/ic_account_circle_24dp"
+		app:key="account"
+		app:title="个人信息" />
+	<androidx.preference.Preference
+		app:icon="@drawable/ic_shopping_cart_black_24"
+		app:key="nearbypharm"
+		app:title="周边药店" />
+	<androidx.preference.Preference
+		app:icon="@drawable/ic_alarm_black_24dp"
+		app:key="notify"
+		app:title="提醒买药" />
+	<androidx.preference.Preference
+		app:icon="@drawable/ic_keyboard_voice_black_24dp"
+		app:key="voice"
+		app:title="语音设置" />
+	<androidx.preference.Preference
+		app:icon="@drawable/ic_show_chart_black_24dp"
+		app:key="analyze"
+		app:title="药理分析" />
+	<androidx.preference.Preference
+		android:icon="@drawable/ic_baseline_add_box_24"
+		app:key="add_box"
+		app:title="设备管理" />
+	<androidx.preference.Preference
+		android:icon="@drawable/ic_baseline_wifi_tethering_24"
+		app:key="redian_debug"
+		app:title="打开热点" />
+	<androidx.preference.Preference
+		android:icon="@drawable/ic_wifi_black_24dp"
+		app:key="wifi_debug"
+		app:title="WiFi 调试" />
+	<androidx.preference.Preference
+		android:icon="@drawable/ic_close_black_24dp"
+		android:key="logout"
+		android:title="退出当前账号" />
+</androidx.preference.PreferenceScreen>

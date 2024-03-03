@@ -1,0 +1,4 @@
+com/example/btcontroller/ExampleInstrumentedTest.java
+ com.example.btcontroller.ExampleInstrumentedTest
+com/example/btcontroller/test/BuildConfig.java
+ com.example.btcontroller.test.BuildConfig
